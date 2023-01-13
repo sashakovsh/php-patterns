@@ -17,6 +17,6 @@ interface CreateQueryInterface {
 
 class MySQLFactory implements CreateConnectionInterface, CreateQueryInterface, CreateRecordInterface {
     public function DbConnection(){
-        
+        //я сейчас сдохну, я не понимаю ничего
     }
 }
